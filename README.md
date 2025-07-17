@@ -1,4 +1,4 @@
-AI ANimated Filter (Multi-Face Support)
+AI Animated Filter (Multi-Face Support)
 
 This project uses OpenCV and MediaPipe to apply a "Thug Life" style glasses and mustache filter on multiple faces in real time using your webcam. The filters are applied based on facial landmarks, supporting up to 5 faces simultaneously.
 
