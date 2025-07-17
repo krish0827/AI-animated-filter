@@ -32,7 +32,7 @@ glass/
 1. Clone the repository:
 
 
-   git clone https://github.com/yourusername/AI-animated-filter.git
+   git clone https://github.com/krish0827/AI-animated-filter.git
    cd AI-animated-filter
 
 
